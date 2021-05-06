@@ -67,7 +67,7 @@ div {
     padding-left: 90px;
     padding-top: 42px;
     padding-bottom: 44px;
-    filter: drop-shadow(10px 10px 0px #000000);
+    filter: drop-shadow(10px 10px 0px --color-black-first);
 }
 
 h1 {
