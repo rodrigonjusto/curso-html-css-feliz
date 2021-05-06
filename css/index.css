@@ -63,11 +63,8 @@ div {
     display: inline-block;
     background-color: var(--color-black-second);
     text-align: center;
-    padding-right: 90px;
-    padding-left: 90px;
-    padding-top: 42px;
-    padding-bottom: 44px;
-    filter: drop-shadow(10px 10px 0px #000000);
+    padding: 44px 90px;
+    box-shadow: 10px 10px 0px var(--color-black-first);
 }
 
 h1 {
